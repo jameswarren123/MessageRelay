@@ -7,7 +7,7 @@ A C based messanger which uses the coordinator-participant paradigm to create a 
 - reconnect [portnumber]
 - msend [message]
 ## Technologies Used
-- Language: Java
+- Language: C
 - Developed in: Emacs
 - Environment: Unix server
 - UI: CLI
